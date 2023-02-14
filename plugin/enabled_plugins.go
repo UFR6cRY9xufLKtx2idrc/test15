@@ -62,6 +62,7 @@ import (
 	_ "github.com/UFR6cRY9xufLKtx2idrc/mosdns/main/plugin/executable/sequence/fallback"
 	_ "github.com/UFR6cRY9xufLKtx2idrc/mosdns/main/plugin/executable/sleep"
 	_ "github.com/UFR6cRY9xufLKtx2idrc/mosdns/main/plugin/executable/ttl"
+	_ "github.com/UFR6cRY9xufLKtx2idrc/mosdns/main/plugin/executable/padding"
 )
 
 // other
