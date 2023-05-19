@@ -14,7 +14,7 @@ require (
 	github.com/quic-go/quic-go v0.33.0
 	github.com/spf13/cobra v1.6.1
 	github.com/spf13/viper v1.15.0
-	github.com/stretchr/testify v1.8.2
+	github.com/stretchr/testify v1.8.3
 	github.com/vishvananda/netlink v1.2.1-beta.2.0.20221107222636-d3c0a2caa559
 	go.uber.org/zap v1.24.0
 	go4.org/netipx v0.0.0-20230125063823-8449b0a6169f
